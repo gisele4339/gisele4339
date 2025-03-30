@@ -1,4 +1,8 @@
-## Hi there 👋
+# inchada <stdio> 
+main()[
+printf("olá mundo/n")
+scantf"%f")
+printf (
 
 <!--
 **gisele4339/gisele4339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
