@@ -1,4 +1,4 @@
-# inchada <stdio> 
+# include <STDIO.H >
 main()[
 printf("olá mundo/n")
 scantf"%f")
