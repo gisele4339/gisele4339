@@ -1,8 +1,11 @@
-# include <STDIO.H >
-main()[
-printf("olá mundo/n")
-scantf"%f")
-printf (
+# olá mundo !
+int main()[
+printf ("olá mundo/n")
+scanf ("%"olá mundo)
+
+return 0!
+
+[
 
 <!--
 **gisele4339/gisele4339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
